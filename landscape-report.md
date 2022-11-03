@@ -2,8 +2,11 @@
 title: "Sharing Government Software"
 ---
 
-# Sharing Government Software
+## Language Update
 
+*Earlier this year, we changed our name from the State Software Collaborative to the Intergovernmental Software Collaborative. Now, we're changing what we call the groups of governments working in this way. Moving forward, instead of cooperatives, we will refer to these groups as collaboratives. These changes are reflected on this page.*
+
+# Sharing Government Software
 
 ### How Agencies Are Collaboratively Building Mission-Critical Software
 
